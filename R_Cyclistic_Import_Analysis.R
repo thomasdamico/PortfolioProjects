@@ -1,5 +1,5 @@
 # Set the working directory
-setwd("C:/Users/edp/OneDrive/Desktop/MyCaseStudy/CSV")
+setwd("C:/Users/Desktop/MyCaseStudy/CSV")
 
 library(readxl)
 library(dplyr)
